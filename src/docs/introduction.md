@@ -1,13 +1,12 @@
 ---
-title: "Introduction"
-date: "2025-02-11"
+title: 'Introduction'
+date: '2024-02-12'
 parent: null
 order: 1
-author: "Nahid-M"
-category : "General"
-tags: ["intro", "getting-started" ]
+author: Alex B
+category: General
+tags: ["intro", "getting-started"]
 ---
-
 
 ## API Documentation
 Use the Protocol API to access contacts, conversations, group messages, and more and seamlessly integrate your product into the workflows of
